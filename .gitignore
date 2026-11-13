@@ -1,0 +1,30 @@
+# Variables de entorno y secretos (NUNCA subir a Git)
+.env
+*.env
+!.env.example
+secrets/
+*.pem
+*.key
+*.crt
+
+# Copias de seguridad y volcados de base de datos
+backups/
+*.dump
+*.bak
+*.sql.gz
+*.tar.gz
+
+# Volúmenes locales y registros temporales
+data/
+pgdata/
+mariadb_data/
+logs/
+*.log
+
+# Archivos basura de sistemas operativos y editores
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
