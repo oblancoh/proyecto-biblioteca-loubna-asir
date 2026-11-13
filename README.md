@@ -8,7 +8,7 @@
 > **Título del Proyecto:** Despliegue e Infraestructura Contenedorizada de Servicios Web y Base de Datos Resiliente para Gestión de la Biblioteca «Loubna de Córdoba»  
 > **Centro Educativo:** Campus Digital FP  
 > **Ciclo Formativo:** CFGS Administración de Sistemas Informáticos en Red (ASIR · Modalidad TEC)  
-> **Tutora:** Marta Peribañez Vela  
+> **Tutora:** Alejandro Torres Cabrera
 
 ---
 
